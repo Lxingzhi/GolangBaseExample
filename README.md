@@ -1,11 +1,11 @@
 # GolangBaseExample
 Golang语言基础例子<br/>
-reflection    反射<br/>
-Slice         切片<br/>
-struct        结构体<br/>
-method        方法<br/>
-interface     接口<br/>
-hello         第一个<br/>
-func          函数<br/>
-const         常量<br/>
-BubbleSort    冒泡排序<br/>
+反射：reflection<br/>
+切片：Slice  <br/>
+结构体：struct  <br/>
+方法：method  <br/>
+接口：interface <br/>
+第一个：hello <br/>
+函数：func   <br/>
+常量：const <br/>
+冒泡排序：BubbleSort <br/>
