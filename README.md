@@ -18,5 +18,5 @@ channel的赋值机制： channelSelectSent<br/>
 高并发，有十个缓存，多核一起运行：concurrencyten.go<br/>
 高并发，有十个缓存，多核一起运行 第二种解决方案 是同步包：concurrencytentwo.go <br/>
 超时：selectTimeout.go<br/>
-<br/>
+创建一个goroutine，与主线程按顺序相互发送信息若干次并打印:goroutineTest<br/>
 <br/>
